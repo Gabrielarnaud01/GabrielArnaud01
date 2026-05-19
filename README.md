@@ -1,39 +1,66 @@
-# Olá, eu sou o Gabriel Arnaud! 👋
+# Hi there, I'm Gabriel Torres! 👋
 
-Sou um desenvolvedor de software focado em criar soluções eficientes, modernas e escaláveis. Tenho experiência sólida tanto no desenvolvimento de ecossistemas robustos de backend como na criação de interfaces dinâmicas e responsivas no frontend.
-
----
-
-## 🛠️ O Meu Arsenal Técnico
-
-### Backend & Arquitetura
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Frontend & Aplicações Web
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Ferramentas & Práticas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+I am a passionate **Full Stack Developer** specializing in building scalable enterprise web applications, robust RESTful APIs, and modern cloud-compliant solutions. With a strong background in **.NET Core / C#** and **Angular**, I thrive in high-pressure environments, tackling legacy system modernization and complex database engineering.
 
 ---
 
-## 📊 Estatísticas do GitHub
+### 🚀 About Me
+
+- 💼 Currently working as a **Software Programmer** at **Detran-RN**, modernizing public sector tech stacks and developing high-performance solutions.
+- 🏗️ Deep interest and experience in **Clean Architecture**, **Clean Code**, and domain-driven practices.
+- 📊 Experienced in advanced data relationship mapping and heavy database engineering (handling complex queries & massive stored procedures).
+- 🧠 Background in project management, agile frameworks, and remote team organization.
+- 🌐 Fully proficient in English (**EF SET C2 Certified**), ready for global collaboration.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techicons.dev/icons/csharp.svg" width="48" height="48" alt="C#" />
+      <br />C#
+    </td>
+    <td align="center" width="96">
+      <img src="https://techicons.dev/icons/dotnetcore.svg" width="48" height="48" alt=".NET Core" />
+      <br />.NET Core / 8
+    </td>
+    <td align="center" width="96">
+      <img src="https://techicons.dev/icons/angularjs.svg" width="48" height="48" alt="Angular" />
+      <br />Angular
+    </td>
+    <td align="center" width="96">
+      <img src="https://techicons.dev/icons/javascript.svg" width="48" height="48" alt="JavaScript" />
+      <br />JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techicons.dev/icons/microsoftsqlserver.svg" width="48" height="48" alt="SQL Server" />
+      <br />SQL Server
+    </td>
+  </tr>
+</table>
+
+**Other Skills:** RESTful Web APIs | Entity Framework | Clean Architecture | IIS Administration | Agile (Scrum/Kanban) | Legacy Modernization (ASP/VBScript)
+
+---
+
+### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabrielarnaud01&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas do GitHub de Gabriel" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielarnaud01&layout=compact&theme=dark" alt="Linguagens mais usadas" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabrielarnaud01&show_icons=true&theme=nord&count_private=true" alt="Gabriel's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielarnaud01&layout=compact&theme=nord" alt="Top Languages" height="180" />
 </p>
 
 ---
 
-## 📬 Conecta-te Comigo
+### 🤝 Connect with me
 
-Se quiseres trocar ideias sobre desenvolvimento de software, arquitetura de sistemas ou novos projetos, podes encontrar-me aqui:
-
-- 💼 **LinkedIn:** [linkedin.com/in/gabriel-arnaud](https://linkedin.com) *(podes substituir pelo teu link real)*
-- ✉️ **E-mail:** [O teu e-mail aqui]
+<p align="left">
+  <a href="https://www.linkedin.com/in/gabrielarnaud" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:gabriel.arnaud30@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
